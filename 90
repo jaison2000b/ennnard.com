@@ -1,0 +1,30 @@
+<head>
+  <title>Steve's 90s website</title>
+</head>
+
+<body>
+  <h1>Steve's 90s website</h1>
+  <p>As part of my <a href="https://www.coursera.org/learn/duke-programming-web">Programming and the Web for Beginners</a> course from <a href="https://www.coursera.org/">Coursera</a> I've been asked to write a static website using html amd css. 
+  </p>
+  <p>
+  That's pretty 90s, I thought, so I decided to make a website which celebrates the best of 1990s website design.
+  </p>
+  
+  <table>
+    <tr>
+      <th>Feature</th>
+      <th>Method</th>
+      <th>Result</th>
+    </tr>
+    <tr>
+      <td>Awesome starfield background</td>
+      <td>Link to an image I uploaded to tinypic using the <b class="code">background-image:</b> CSS property</td>
+      <td><img src="http://i49.tinypic.com/2hnrse1.jpg" width=200></td>
+    </tr>
+    <tr>
+      <td>Overuse of animated gifs</td>
+      <td>Link to an image on tinypic using html img tab</td>
+      <td><img src="http://i49.tinypic.com/29e3fic.jpg" width=200></td>
+    </tr>
+    <tr>
+      <td>Non-standard hyperlink colour</td>
